@@ -1,0 +1,42 @@
+.fullpalya{
+    background-color: darkgreen;
+    width: 800px;
+    height: 600px;
+    position: absolute;
+}
+
+.palya{
+    background-color: green;
+    width: 700px;
+    height: 600px;
+    position: absolute;
+    left: 50px;
+}
+
+.uto{
+    background-color: white;
+    width: 10px;
+    height: 100px;
+    position: absolute;
+}
+
+.labda{
+    background-color: white;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    position: absolute;
+}
+
+.score2
+{
+    color: white;
+    position: absolute;
+}
+
+.score1
+{
+    color: white;
+    position: absolute;
+    left: 748px;
+}
