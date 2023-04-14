@@ -1,0 +1,38 @@
+VS2022 :
+
+https://www.microsoft.com/hu-hu/d/visual-studio-professional-2022/dg7gmgf0d3sj?activetab=pivot:%C3%A1ttekint%C3%A9stab
+
+
+VSCODE:
+
+https://code.visualstudio.com/docs
+
+
+XAMPP :
+
+https://webiskola.hu/php-ismeretek/php-apache-xampp-letoltese-telepitese/
+
+
+REACT:
+
+https://react.dev/
+
+
+WPF :
+
+https://learn.microsoft.com/en-us/visualstudio/get-started/csharp/tutorial-wpf?view=vs-2022
+
+
+C# :
+
+https://csharptutorial.hu/docs/hellovilag-hellocsharp/2-a-nyelv-alapjai/a-c-programozasi-nyelv-alapjai/
+
+
+GIT ÉS GITHUB :
+
+https://docs.github.com/en/get-started/using-git/about-git
+
+
+Trello : 
+
+https://trello.com/hu/tour
